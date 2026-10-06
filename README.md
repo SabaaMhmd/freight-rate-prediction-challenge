@@ -1,4 +1,4 @@
-\# Spotter Machine Learning Assessment - Freight Rate Prediction
+# Spotter Machine Learning Assessment - Freight Rate Prediction
 
 
 
