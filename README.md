@@ -6,11 +6,11 @@ This repository contains the machine learning pipeline and solution for the Spot
 
 
 
-\## 📊 Approach \& Methodology
+## 📊 Approach & Methodology
 
 
 
-1\. \*\*Data Cleaning \& Preprocessing:\*\*
+1. **Data Cleaning & Preprocessing:**
 
 &#x20;  - \*\*Weights:\*\* Handled negative weights by taking the absolute value (`.abs()`) and imputed missing values using the median.
 
